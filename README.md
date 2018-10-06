@@ -1,0 +1,1 @@
+This repo shows how a smart contract can hold a merkle root and verify a leaf is part of this tree by submiting the leaf and the hashes of the branch.
